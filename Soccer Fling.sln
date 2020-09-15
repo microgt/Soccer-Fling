@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{749B3A5E-D091-F32B-07DB-5BCCA6931C11}") = "Soccer Fling", "Assembly-CSharp-firstpass.csproj", "{D421F361-8192-ECE0-FE2F-6B879EEE72BB}"
+EndProject
+Project("{749B3A5E-D091-F32B-07DB-5BCCA6931C11}") = "Soccer Fling", "Assembly-CSharp.csproj", "{FC2E4DB4-BB73-8EC5-E26B-EC5BCABD9C7C}"
+EndProject
+Project("{749B3A5E-D091-F32B-07DB-5BCCA6931C11}") = "Soccer Fling", "Assembly-CSharp-Editor.csproj", "{5E014B6E-C496-EA1B-74A7-24A3904E72AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D421F361-8192-ECE0-FE2F-6B879EEE72BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D421F361-8192-ECE0-FE2F-6B879EEE72BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D421F361-8192-ECE0-FE2F-6B879EEE72BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D421F361-8192-ECE0-FE2F-6B879EEE72BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2E4DB4-BB73-8EC5-E26B-EC5BCABD9C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2E4DB4-BB73-8EC5-E26B-EC5BCABD9C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2E4DB4-BB73-8EC5-E26B-EC5BCABD9C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2E4DB4-BB73-8EC5-E26B-EC5BCABD9C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E014B6E-C496-EA1B-74A7-24A3904E72AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E014B6E-C496-EA1B-74A7-24A3904E72AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E014B6E-C496-EA1B-74A7-24A3904E72AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E014B6E-C496-EA1B-74A7-24A3904E72AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
